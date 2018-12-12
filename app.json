@@ -5,14 +5,14 @@
   "env": {
     "VER": {
        "description": " chisel version",
-       "value": "1.2.3"
+       "value": "1.2.4"
      }, 
     "AUTH": {
        "description": "user:password",
-       "value": "user:pass"
+       "value": "user:passs"
      }
   },
-  "website": "https://github.com/wangyi2005/chisel-heroku",
-  "repository": "https://github.com/wangyi2005/chisel-heroku",
+  "website": "https://github.com/devwebcode/chisel-heroku",
+  "repository": "https://github.com/devwebcode/chisel-heroku",
   "stack": "container"
  }
