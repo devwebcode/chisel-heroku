@@ -1,5 +1,5 @@
 {
-  "name": "chisel",
+  "name": "chisell",
   "description": "deploy chisel to Heroku.",
   "keywords": ["chisel"],
   "env": {
@@ -12,7 +12,7 @@
        "value": "user:passs"
      }
   },
-  "website": "https://github.com/devwebcode/chisel-heroku",
-  "repository": "https://github.com/devwebcode/chisel-heroku",
+  "website": "https://github.com/devwebcode/chisell",
+  "repository": "https://github.com/devwebcode/chisell",
   "stack": "container"
  }
